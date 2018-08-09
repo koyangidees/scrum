@@ -1,4 +1,4 @@
-header, .intro h2{
+header, .intro h2, .term h2, .process h2{
     font-family: 'Montserrat', sans-serif;
 }
 p, li{
@@ -11,6 +11,8 @@ header{
     text-align: center;
     font-size: 3em;
     padding: 40px 0;
+    background-color: #fba652;
+    color: #ffffff;
 }
  section{
     padding: 50px 0;
@@ -25,4 +27,8 @@ header{
 }
  .role span{
     font-size: 1.5em;
+}
+
+.term{
+    border-bottom: 50px solid #fba652;
 }
