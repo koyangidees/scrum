@@ -1,0 +1,28 @@
+header, .intro h2{
+    font-family: 'Montserrat', sans-serif;
+}
+p, li{
+    font-family: 'Open Sans', sans-serif;
+}
+span{
+    color: #fba652;
+}
+header{
+    text-align: center;
+    font-size: 3em;
+    padding: 40px 0;
+}
+ section{
+    padding: 50px 0;
+}
+ .process figure img{
+    width: 100%;
+    padding-bottom: 30px;
+}
+ .role figure img{
+    width: 100%;
+    padding-bottom: 30px;
+}
+ .role span{
+    font-size: 1.5em;
+} 
